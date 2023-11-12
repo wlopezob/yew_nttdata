@@ -1,1 +1,2 @@
-# yew_nttdata
+# run server
+trunk serve --open
